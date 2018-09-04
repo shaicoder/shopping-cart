@@ -4,18 +4,18 @@ A shopping site which allows user to go through products category wise and add i
 # 1.
 Clone the project to your desktop using command git clone "https://github.com/amit9651/shopping-cart.git"
 # 2.
-Run command cd djangoshop
-Install virtual env using - 
-  sudo apt install virtualenv
-Create virtual env using -  
-  virtualenv -p /usr/bin/python3 onlineshop
-Activate virtual env using - 
-  source onlineshop/bin/activate
-Run command cd ecommerce
-Make migrations using-
-  1. python manage.py makemigrations
-  2. python manage.py migrate
-Run the server using - 
-  python manage.py runserver
+Run command cd djangoshop <br>
+Install virtual env using - <br>
+  sudo apt install virtualenv <br>
+Create virtual env using -  <br>
+  virtualenv -p /usr/bin/python3 onlineshop<br>
+Activate virtual env using - <br>
+  source onlineshop/bin/activate<br>
+Run command cd ecommerce<br>
+Make migrations using-<br>
+  1. python manage.py makemigrations<br>
+  2. python manage.py migrate<br>
+Run the server using - <br>
+  python manage.py runserver<br>
 
 
